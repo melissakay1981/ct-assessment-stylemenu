@@ -35,7 +35,7 @@ h2 {margin-top: 0;}
 */
 h2
 {    font-family: Tahoma;
-    font-variant: small-caps;
+     text-transform: uppercase;
 }
 
 
